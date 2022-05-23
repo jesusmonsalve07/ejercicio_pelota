@@ -1,0 +1,1 @@
+"una pelota se deja caer desde una altura h y en cada rebote sube el 10% menos de el anterior, hacer diagrama y programa en python que lea h y calcule e imprima en cual rebote la pelota no alcana a subir la quinta parte de la altura inicial" 
